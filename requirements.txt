@@ -1,10 +1,9 @@
 streamlit
+numpy
 pandas
 matplotlib
 seaborn
-pickle
-numpy
-gensim
-scipy
 scikit-learn
+genism
+scipy
 underthesea
